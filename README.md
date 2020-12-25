@@ -1,5 +1,5 @@
 # react-parallax-header
-> ⚠️ Complated not yet
+> ⚠️ Not yet complated
 
 > Parallax Header For ReactJS
 
